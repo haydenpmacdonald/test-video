@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import CodingVideo from './components/video/keyboard.mp4';
+// import CodingVideo from 'video/keyboard.mp4'
 
 function App() {
   return (
@@ -23,7 +22,7 @@ function App() {
         }}
       >
         
-        <source src={CodingVideo} />
+        <source src='video/keyboard.mp4' />
       </video>
     </div>
   );
