@@ -1,7 +1,7 @@
 const footage = [
  
     {  
-        video_name:'video/keyboard.mp4',
+        video_name:'video/keyboard.mov',
     }
   ]
   
